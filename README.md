@@ -15,7 +15,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-![CSS](https://img.shields.io/badge/-Css-000000?style=flat&logo=csss)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css)
 
 ##### Some of the technologies I have worked with
 
