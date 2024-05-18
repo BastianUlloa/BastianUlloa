@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Bastian!]([https://github.com/Danushka2/Danushka2/](https://github.com/BastianUlloa)
+### Hi there 👋 I'm Bastian!([https://github.com/BastianUlloa])
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
